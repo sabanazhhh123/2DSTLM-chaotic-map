@@ -1,0 +1,20 @@
+#=============================================================================#
+#            dieharder version 3.31.1 Copyright 2003 Robert G. Brown          #
+#=============================================================================#
+   rng_name    |           filename             |rands/second|
+ file_input_raw|/mnt/d/drop/4th paper 14.08.2026/4TH V6/dieharder/stlm_x_die.bin|  1.32e+06  |
+#=============================================================================#
+        test_name   |ntup| tsamples |psamples|  p-value |Assessment
+#=============================================================================#
+        dab_filltree|  32|  15000000|       1|0.89510750|  PASSED  
+        dab_filltree|  32|  15000000|       1|0.08544033|  PASSED  
+#=============================================================================#
+#            dieharder version 3.31.1 Copyright 2003 Robert G. Brown          #
+#=============================================================================#
+   rng_name    |           filename             |rands/second|
+ file_input_raw|/mnt/d/drop/4th paper 14.08.2026/4TH V6/dieharder/stlm_x_die.bin|  1.13e+06  |
+#=============================================================================#
+        test_name   |ntup| tsamples |psamples|  p-value |Assessment
+#=============================================================================#
+       dab_filltree2|   0|   5000000|       1|0.25039325|  PASSED  
+       dab_filltree2|   1|   5000000|       1|0.55749384|  PASSED  

@@ -1,0 +1,221 @@
+#=============================================================================#
+#            dieharder version 3.31.1 Copyright 2003 Robert G. Brown          #
+#=============================================================================#
+   rng_name    |           filename             |rands/second|
+ file_input_raw|/mnt/d/drop/4th paper 14.08.2026/4TH V6/dieharder/stlm_x_die.bin|  1.21e+06  |
+#=============================================================================#
+        test_name   |ntup| tsamples |psamples|  p-value |Assessment
+#=============================================================================#
+   diehard_birthdays|   0|       100|     100|0.52241473|  PASSED  
+#=============================================================================#
+#            dieharder version 3.31.1 Copyright 2003 Robert G. Brown          #
+#=============================================================================#
+   rng_name    |           filename             |rands/second|
+ file_input_raw|/mnt/d/drop/4th paper 14.08.2026/4TH V6/dieharder/stlm_x_die.bin|  1.36e+06  |
+#=============================================================================#
+        test_name   |ntup| tsamples |psamples|  p-value |Assessment
+#=============================================================================#
+      diehard_operm5|   0|   1000000|     100|0.66379439|  PASSED  
+#=============================================================================#
+#            dieharder version 3.31.1 Copyright 2003 Robert G. Brown          #
+#=============================================================================#
+   rng_name    |           filename             |rands/second|
+ file_input_raw|/mnt/d/drop/4th paper 14.08.2026/4TH V6/dieharder/stlm_x_die.bin|  1.36e+06  |
+#=============================================================================#
+        test_name   |ntup| tsamples |psamples|  p-value |Assessment
+#=============================================================================#
+  diehard_rank_32x32|   0|     40000|     100|0.80178854|  PASSED  
+#=============================================================================#
+#            dieharder version 3.31.1 Copyright 2003 Robert G. Brown          #
+#=============================================================================#
+   rng_name    |           filename             |rands/second|
+ file_input_raw|/mnt/d/drop/4th paper 14.08.2026/4TH V6/dieharder/stlm_x_die.bin|  1.32e+06  |
+#=============================================================================#
+        test_name   |ntup| tsamples |psamples|  p-value |Assessment
+#=============================================================================#
+    diehard_rank_6x8|   0|    100000|     100|0.04037095|  PASSED  
+#=============================================================================#
+#            dieharder version 3.31.1 Copyright 2003 Robert G. Brown          #
+#=============================================================================#
+   rng_name    |           filename             |rands/second|
+ file_input_raw|/mnt/d/drop/4th paper 14.08.2026/4TH V6/dieharder/stlm_x_die.bin|  1.33e+06  |
+#=============================================================================#
+        test_name   |ntup| tsamples |psamples|  p-value |Assessment
+#=============================================================================#
+   diehard_bitstream|   0|   2097152|     100|0.68312689|  PASSED  
+#=============================================================================#
+#            dieharder version 3.31.1 Copyright 2003 Robert G. Brown          #
+#=============================================================================#
+   rng_name    |           filename             |rands/second|
+ file_input_raw|/mnt/d/drop/4th paper 14.08.2026/4TH V6/dieharder/stlm_x_die.bin|  1.30e+06  |
+#=============================================================================#
+        test_name   |ntup| tsamples |psamples|  p-value |Assessment
+#=============================================================================#
+        diehard_opso|   0|   2097152|     100|0.15413887|  PASSED  
+#=============================================================================#
+#            dieharder version 3.31.1 Copyright 2003 Robert G. Brown          #
+#=============================================================================#
+   rng_name    |           filename             |rands/second|
+ file_input_raw|/mnt/d/drop/4th paper 14.08.2026/4TH V6/dieharder/stlm_x_die.bin|  1.15e+06  |
+#=============================================================================#
+        test_name   |ntup| tsamples |psamples|  p-value |Assessment
+#=============================================================================#
+        diehard_oqso|   0|   2097152|     100|0.96366866|  PASSED  
+#=============================================================================#
+#            dieharder version 3.31.1 Copyright 2003 Robert G. Brown          #
+#=============================================================================#
+   rng_name    |           filename             |rands/second|
+ file_input_raw|/mnt/d/drop/4th paper 14.08.2026/4TH V6/dieharder/stlm_x_die.bin|  1.14e+06  |
+#=============================================================================#
+        test_name   |ntup| tsamples |psamples|  p-value |Assessment
+#=============================================================================#
+         diehard_dna|   0|   2097152|     100|0.57267734|  PASSED  
+#=============================================================================#
+#            dieharder version 3.31.1 Copyright 2003 Robert G. Brown          #
+#=============================================================================#
+   rng_name    |           filename             |rands/second|
+ file_input_raw|/mnt/d/drop/4th paper 14.08.2026/4TH V6/dieharder/stlm_x_die.bin|  1.09e+06  |
+#=============================================================================#
+        test_name   |ntup| tsamples |psamples|  p-value |Assessment
+#=============================================================================#
+diehard_count_1s_str|   0|    256000|     100|0.64482640|  PASSED  
+#=============================================================================#
+#            dieharder version 3.31.1 Copyright 2003 Robert G. Brown          #
+#=============================================================================#
+   rng_name    |           filename             |rands/second|
+ file_input_raw|/mnt/d/drop/4th paper 14.08.2026/4TH V6/dieharder/stlm_x_die.bin|  1.17e+06  |
+#=============================================================================#
+        test_name   |ntup| tsamples |psamples|  p-value |Assessment
+#=============================================================================#
+diehard_count_1s_byt|   0|    256000|     100|0.61473703|  PASSED  
+#=============================================================================#
+#            dieharder version 3.31.1 Copyright 2003 Robert G. Brown          #
+#=============================================================================#
+   rng_name    |           filename             |rands/second|
+ file_input_raw|/mnt/d/drop/4th paper 14.08.2026/4TH V6/dieharder/stlm_x_die.bin|  1.03e+06  |
+#=============================================================================#
+        test_name   |ntup| tsamples |psamples|  p-value |Assessment
+#=============================================================================#
+ diehard_parking_lot|   0|     12000|     100|0.53057251|  PASSED  
+#=============================================================================#
+#            dieharder version 3.31.1 Copyright 2003 Robert G. Brown          #
+#=============================================================================#
+   rng_name    |           filename             |rands/second|
+ file_input_raw|/mnt/d/drop/4th paper 14.08.2026/4TH V6/dieharder/stlm_x_die.bin|  1.15e+06  |
+#=============================================================================#
+        test_name   |ntup| tsamples |psamples|  p-value |Assessment
+#=============================================================================#
+    diehard_2dsphere|   2|      8000|     100|0.60384461|  PASSED  
+#=============================================================================#
+#            dieharder version 3.31.1 Copyright 2003 Robert G. Brown          #
+#=============================================================================#
+   rng_name    |           filename             |rands/second|
+ file_input_raw|/mnt/d/drop/4th paper 14.08.2026/4TH V6/dieharder/stlm_x_die.bin|  1.15e+06  |
+#=============================================================================#
+        test_name   |ntup| tsamples |psamples|  p-value |Assessment
+#=============================================================================#
+    diehard_3dsphere|   3|      4000|     100|0.83779325|  PASSED  
+#=============================================================================#
+#            dieharder version 3.31.1 Copyright 2003 Robert G. Brown          #
+#=============================================================================#
+   rng_name    |           filename             |rands/second|
+ file_input_raw|/mnt/d/drop/4th paper 14.08.2026/4TH V6/dieharder/stlm_x_die.bin|  1.11e+06  |
+#=============================================================================#
+        test_name   |ntup| tsamples |psamples|  p-value |Assessment
+#=============================================================================#
+     diehard_squeeze|   0|    100000|     100|0.98929542|  PASSED  
+#=============================================================================#
+#            dieharder version 3.31.1 Copyright 2003 Robert G. Brown          #
+#=============================================================================#
+   rng_name    |           filename             |rands/second|
+ file_input_raw|/mnt/d/drop/4th paper 14.08.2026/4TH V6/dieharder/stlm_x_die.bin|  9.33e+05  |
+#=============================================================================#
+        test_name   |ntup| tsamples |psamples|  p-value |Assessment
+#=============================================================================#
+        diehard_sums|   0|       100|     100|0.64665866|  PASSED  
+#=============================================================================#
+#            dieharder version 3.31.1 Copyright 2003 Robert G. Brown          #
+#=============================================================================#
+   rng_name    |           filename             |rands/second|
+ file_input_raw|/mnt/d/drop/4th paper 14.08.2026/4TH V6/dieharder/stlm_x_die.bin|  8.29e+05  |
+#=============================================================================#
+        test_name   |ntup| tsamples |psamples|  p-value |Assessment
+#=============================================================================#
+        diehard_runs|   0|    100000|     100|0.69401892|  PASSED  
+        diehard_runs|   0|    100000|     100|0.36518095|  PASSED  
+#=============================================================================#
+#            dieharder version 3.31.1 Copyright 2003 Robert G. Brown          #
+#=============================================================================#
+   rng_name    |           filename             |rands/second|
+ file_input_raw|/mnt/d/drop/4th paper 14.08.2026/4TH V6/dieharder/stlm_x_die.bin|  9.22e+05  |
+#=============================================================================#
+        test_name   |ntup| tsamples |psamples|  p-value |Assessment
+#=============================================================================#
+       diehard_craps|   0|    200000|     100|0.79726680|  PASSED  
+       diehard_craps|   0|    200000|     100|0.10313251|  PASSED  
+#=============================================================================#
+#            dieharder version 3.31.1 Copyright 2003 Robert G. Brown          #
+#=============================================================================#
+   rng_name    |           filename             |rands/second|
+ file_input_raw|/mnt/d/drop/4th paper 14.08.2026/4TH V6/dieharder/stlm_x_die.bin|  1.02e+06  |
+#=============================================================================#
+        test_name   |ntup| tsamples |psamples|  p-value |Assessment
+#=============================================================================#
+ marsaglia_tsang_gcd|   0|  10000000|     100|0.35448006|  PASSED  
+ marsaglia_tsang_gcd|   0|  10000000|     100|0.49837360|  PASSED  
+#=============================================================================#
+#            dieharder version 3.31.1 Copyright 2003 Robert G. Brown          #
+#=============================================================================#
+   rng_name    |           filename             |rands/second|
+ file_input_raw|/mnt/d/drop/4th paper 14.08.2026/4TH V6/dieharder/stlm_x_die.bin|  1.10e+06  |
+#=============================================================================#
+        test_name   |ntup| tsamples |psamples|  p-value |Assessment
+#=============================================================================#
+         sts_monobit|   1|    100000|     100|0.94535351|  PASSED  
+#=============================================================================#
+#            dieharder version 3.31.1 Copyright 2003 Robert G. Brown          #
+#=============================================================================#
+   rng_name    |           filename             |rands/second|
+ file_input_raw|/mnt/d/drop/4th paper 14.08.2026/4TH V6/dieharder/stlm_x_die.bin|  1.10e+06  |
+#=============================================================================#
+        test_name   |ntup| tsamples |psamples|  p-value |Assessment
+#=============================================================================#
+            sts_runs|   2|    100000|     100|0.93796621|  PASSED  
+#=============================================================================#
+#            dieharder version 3.31.1 Copyright 2003 Robert G. Brown          #
+#=============================================================================#
+   rng_name    |           filename             |rands/second|
+ file_input_raw|/mnt/d/drop/4th paper 14.08.2026/4TH V6/dieharder/stlm_x_die.bin|  1.07e+06  |
+#=============================================================================#
+        test_name   |ntup| tsamples |psamples|  p-value |Assessment
+#=============================================================================#
+          sts_serial|   1|    100000|     100|0.94535351|  PASSED  
+          sts_serial|   2|    100000|     100|0.68577164|  PASSED  
+          sts_serial|   3|    100000|     100|0.88460300|  PASSED  
+          sts_serial|   3|    100000|     100|0.96945021|  PASSED  
+          sts_serial|   4|    100000|     100|0.35627989|  PASSED  
+          sts_serial|   4|    100000|     100|0.26118892|  PASSED  
+          sts_serial|   5|    100000|     100|0.26540120|  PASSED  
+          sts_serial|   5|    100000|     100|0.61687611|  PASSED  
+          sts_serial|   6|    100000|     100|0.96170132|  PASSED  
+          sts_serial|   6|    100000|     100|0.37274074|  PASSED  
+          sts_serial|   7|    100000|     100|0.55116228|  PASSED  
+          sts_serial|   7|    100000|     100|0.08034548|  PASSED  
+          sts_serial|   8|    100000|     100|0.69880031|  PASSED  
+          sts_serial|   8|    100000|     100|0.30067832|  PASSED  
+          sts_serial|   9|    100000|     100|0.14221991|  PASSED  
+          sts_serial|   9|    100000|     100|0.23518736|  PASSED  
+          sts_serial|  10|    100000|     100|0.63583522|  PASSED  
+          sts_serial|  10|    100000|     100|0.51380074|  PASSED  
+          sts_serial|  11|    100000|     100|0.56211038|  PASSED  
+          sts_serial|  11|    100000|     100|0.80119727|  PASSED  
+          sts_serial|  12|    100000|     100|0.83453272|  PASSED  
+          sts_serial|  12|    100000|     100|0.23601131|  PASSED  
+          sts_serial|  13|    100000|     100|0.86146451|  PASSED  
+          sts_serial|  13|    100000|     100|0.15292260|  PASSED  
+          sts_serial|  14|    100000|     100|0.85353435|  PASSED  
+          sts_serial|  14|    100000|     100|0.85519315|  PASSED  
+          sts_serial|  15|    100000|     100|0.94368499|  PASSED  
+          sts_serial|  15|    100000|     100|0.48929640|  PASSED  
+          sts_serial|  16|    100000|     100|0.27480007|  PASSED  
+          sts_serial|  16|    100000|     100|0.24757228|  PASSED  
